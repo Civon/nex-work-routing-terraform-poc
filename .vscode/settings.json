@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "JetBrains Mono, Source Code Pro, Fira Code "
+} // {
+//     "terraform.format": {
+//         "enable": true,
+//         "ignoreExtensionsOnSave": [
+//             ".tfsmurf"
+//         ]
+//     },
+//     "terraform.path": "/usr/local/bin/terraform"
+// }
